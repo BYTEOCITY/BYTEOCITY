@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BYTEOCITY
-- 👀 I’m interested in ... experience
-- 🌱 I’m currently learning ... experience
-- 💞️ I’m looking to collaborate on ... nothing
-- 📫 How to reach me ... no way
+- 👀 I’m interested in ... coding
+- 🌱 I’m currently learning ... break
+- 💞️ I’m looking to collaborate on ... discord bot projects.
+- 📫 How to reach me ... byteocity (discord I'd)
 
 <!---
 BYTEOCITY/BYTEOCITY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
