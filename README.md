@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BYTEOCITY
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... break
+- 🌱 I’m currently learning ... javascript
 - 💞️ I’m looking to collaborate on ... discord bot projects.
 - 📫 How to reach me ... byteocity (discord I'd)
 
